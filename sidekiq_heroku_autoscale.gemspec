@@ -28,7 +28,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'bundler', '~> 2.0'
   s.add_development_dependency 'minitest', '~> 5.14'
   s.add_development_dependency 'mock_redis', '~> 0.28'
-  s.add_development_dependency 'rake', '~> 12.0'
+  s.add_development_dependency 'rake', '~> 13.0'
   s.add_development_dependency 'rubocop', '~> 1.18'
   s.add_development_dependency 'rubocop-minitest', '~> 0.13'
   s.add_development_dependency 'rubocop-performance', '~> 1.11'
